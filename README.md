@@ -1,2 +1,2 @@
 # test-config-repository
-The center fo config
+The center of config
